@@ -215,9 +215,7 @@ DELETE /favorites/:id
 
 ## 🎥 Demo
 
-Demo video or deployed links can be added here.
 
-Example:
 
 ```
 Demo Video: <add link>
